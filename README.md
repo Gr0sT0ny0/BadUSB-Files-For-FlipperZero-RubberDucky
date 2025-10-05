@@ -9,6 +9,7 @@ Keyboard configuration : French AZERTY standard
 
 ## Second solution
 But USB Rubber Ducky : https://shop.hak5.org/products/usb-rubber-ducky (The least expensive.)  
+Payloads studio : https://payloadstudio.hak5.org/community/  
 Keyboard configuration : French AZERTY standard
 
 These scripts have been tested in the recommended environment, which is clearly specified. There is no reason they should not function properly. In the unlikely event of an issue, there is no reason they would damage your computer or any other equipment.  
