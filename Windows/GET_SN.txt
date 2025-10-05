@@ -1,0 +1,13 @@
+DELAY 1000
+GUI r
+DELAY 1000
+STRING powershell.exe
+DELAY 10
+ENTER
+DELAY 1000
+STRING $destinationFolder = Join-Path $env:USERPROFILE "Flipper"; if (-not (Test-Path $destinationFolder)) { New-Item -ItemType Directory -Path $destinationFolder | Out-Null }; (Get-WmiObject -Class Win32_BIOS).SerialNumber | Out-File -FilePath (Join-Path $destinationFolder "SerialNumber.txt"); Write-Host "Numéro de série enregistré dans : $($destinationFolder)\SerialNumber.txt"
+DELAY 100
+ENTER
+DELAY 100
+STRING exit
+ENTER

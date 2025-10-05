@@ -1,0 +1,16 @@
+DELAY 1000
+GUI r
+DELAY 300
+STRING cmd.exe
+ENTER
+DELAY 300
+STRING mkdir c:\folder1
+ENTER
+DELAY 300
+STRING mkdir c:\Folder2
+ENTER
+DELAY 300
+STRING mkdir c:\folder3
+ENTER
+STRING exit
+ENTER
