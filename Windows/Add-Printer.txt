@@ -1,0 +1,11 @@
+DELAY 2000
+GUI r
+DELAY 1000
+STRING powershell.exe 
+ENTER
+DELAY 1000
+STRING add-printer -connectionname \\{Print-Server-IP}\{Printer-Name}
+ENTER
+DELAY 500
+STRING exit
+ENTER
