@@ -1,7 +1,7 @@
 # BadUSB-Files-For-FlipperZero-RubberDucky
 A collection of BadUSB scripts for IT technicians. Their purpose is to help you with your daily and repetitive tasks, saving you valuable time.
 
-# First solution (recommended, i use that)
+# First solution (recommended, I use that one)
 Buy FlipperZero : https://flipperzero.one/ (The most practical.)  
 Original & Official software : https://flipperzero.one/downloads  
 FlipperZero tested custom firmware : https://momentum-fw.dev/ (Original firmware is OK)  
