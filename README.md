@@ -11,4 +11,9 @@ Keyboard configuration : French AZERTY standard
 But USB Rubber Ducky : https://shop.hak5.org/products/usb-rubber-ducky (The least expensive.)  
 Keyboard configuration : French AZERTY standard
 
-These scripts have been tested in the recommended environment, which is clearly specified. There is no reason they should not function properly. In the unlikely event of an issue, there is no reason they would damage your computer or any other equipment.
+These scripts have been tested in the recommended environment, which is clearly specified. There is no reason they should not function properly. In the unlikely event of an issue, there is no reason they would damage your computer or any other equipment.  
+
+## donation
+I accept donations. This allows me to buy equipment and develop scripts or other applications. Thank you very much.  
+DogeCoin : DJZjBK7fuB6QfBMYX54CRZDjEFUjrAbZ6c  
+LiteCoin : LXd9oURqBn36mAwC6mgwVSqaKhD2VauXg1 
