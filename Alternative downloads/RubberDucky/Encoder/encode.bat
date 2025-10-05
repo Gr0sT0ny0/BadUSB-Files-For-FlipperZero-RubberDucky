@@ -1,0 +1,1 @@
+java -jar duckencoder.jar -i exploit.txt -l fr.properties -o inject.bin
